@@ -13,7 +13,6 @@ private:
 	pixelCollision* _pc;
 
 
-
 public:
 	HRESULT init(void);
 	void release(void);
