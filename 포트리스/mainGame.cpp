@@ -15,7 +15,6 @@ HRESULT mainGame::init(void)
 	//UFO 프레임 이미지 초기화
 	IMAGEMANAGER->addFrameImage("ufo", "ufo.bmp", 530, 32, 10, 1);
 
-	//sdfghjtkl
 	//총알 이미지
 	IMAGEMANAGER->addImage("bullet", "bullet.bmp", 21, 21, true, RGB(255, 0, 255));
 
