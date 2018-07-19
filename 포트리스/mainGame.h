@@ -12,6 +12,7 @@ private:
 
 	pixelCollision* _pc;
 	// 정말 돌이킬 수 없나?
+	// dsfkjaklsdjflakjsdfl;akjsdf
 
 public:
 	HRESULT init(void);
