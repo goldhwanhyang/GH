@@ -11,9 +11,18 @@ private:
 	enemyManager* _enemyManager;
 
 	pixelCollision* _pc;
+<<<<<<< HEAD
 	// 정말 돌이킬 수 없나?
 	// dsfkjaklsdjflakjsdfl;akjsdf
 
+=======
+	// 정말 돌이킬 수 없나?d
+	//asdfasefasef/sadfasdf/asef/eas/f/wewf/
+	/*a/sdf
+		sd//as
+		df/
+		*/
+>>>>>>> 17f8dbc2b61ff011d8fff1e39bd1f7738ce458b5
 public:
 	HRESULT init(void);
 	void release(void);
